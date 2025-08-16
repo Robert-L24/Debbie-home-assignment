@@ -1,4 +1,4 @@
-## Prerequisetes:
+## Prerequisites:
 - npm
 - Android emulator
 - EAS account
