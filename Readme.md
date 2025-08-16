@@ -1,7 +1,7 @@
 ## Prerequisetes:
 - npm
 - Android emulator
-- eas account
+- EAS account
 
 ## Clone repo:
 ```bash
